@@ -5,7 +5,7 @@ print("tus datos son:"),print (type(3.2),type(3),type(True),type("lara"))
 
 berenice = "lara berenice"
 
-""" operadores de pertenencia ( in, not in)"""
+#peradores de pertenencia ( in, not in)
 
 print (berenice  not in berenice )
 
